@@ -4,7 +4,7 @@
 from ga_genetic import run_three_trials  # Import GA logic from the other file
 
 # ---------- SETTINGS ----------
-CSV_PATH = r"C:\Users\User\Desktop\CE\program_ratings.csv"  # Your file path
+CSV_PATH = "program_ratings.csv"  # Your file path
 GENERATIONS = 200
 POPULATION_SIZE = 100
 # Example parameter sets for 3 trials
